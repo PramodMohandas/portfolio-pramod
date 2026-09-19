@@ -17,7 +17,7 @@ import {
 } from 'lucide-react';
 
 // Import generated photo
-import headshotPhoto from '../assets/images/pramod_headshot_1786532097506.jpg';
+import headshotPhoto from '../assets/images/Pramod_Mohandas_Square.jpg';
 
 interface HeroProps {
   onOpenResume: () => void;
